@@ -1,6 +1,6 @@
 ﻿# ML-Loan-Predictor-Analysis
 
-A machine learning project developed as part of the 5DATA002W Machine Learning and Data Mining module at the University of Westminster (IIT Sri Lanka).
+A machine learning project applying classification and regression techniques to real-world loan approval data to predict client creditworthiness and maximum loan amounts.
 
 ## Project Overview
 
@@ -13,9 +13,9 @@ This project applies machine learning techniques to a real-world loan approval d
 
 | File | Description |
 |------|-------------|
-| 20241087_Shane_Rowell_Notebook1.ipynb | Data understanding and preprocessing — missing value imputation, encoding and dataset preparation |
-| 20241087_Shane_Rowell_Notebook2.ipynb | Classification modelling — LR, KNN, Naive Bayes with hyperparameter tuning via GridSearchCV |
-| 20241087_Shane_Rowell_Notebook3.ipynb | Ensemble classifier (soft voting) and regression decision trees (DT-1 fully grown, DT-2 pruned) |
+| Data_Understanding_Preprocessing.ipynb | Data understanding and preprocessing — missing value imputation, encoding and dataset preparation |
+| Classification_Modelling_Tuning.ipynb | Classification modelling — LR, KNN, Naive Bayes with hyperparameter tuning via GridSearchCV |
+| Ensemble_Regression_Decision_Trees.ipynb | Ensemble classifier (soft voting) and regression decision trees (DT-1 fully grown, DT-2 pruned) |
 
 ## Key Results
 
@@ -46,5 +46,3 @@ This project applies machine learning techniques to a real-world loan approval d
 ## Author
 
 **Shane Rowell Fernando**
-Student ID: 20241087
-University of Westminster — Informatics Institute of Technology, Sri Lanka

@@ -7,3 +7,8 @@ Thumbs.db
 
 # Ignore any local environment files
 *.env
+
+# Ignore Word temporary files and reports
+~$*.docx
+*.tmp
+20241087_Shane_Rowell_Report.docx
