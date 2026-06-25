@@ -1,0 +1,9 @@
+﻿# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore checkpoint folders created by Jupyter
+.ipynb_checkpoints/
+
+# Ignore any local environment files
+*.env
